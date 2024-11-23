@@ -11,53 +11,53 @@ div {
     text-align: center;
 }
 .summer{
-    background-image: url(/summertime.jpg);
+    background-image: url(/background-image-overview-feature/summertime.jpg);
     background-size: cover;
     color: black;
 }
 .smr {
-    background-image: url(/summertime.jpg);
+    background-image: url(/background-image-overview-feature/summertime.jpg);
     background-size: cover;
     background-color: #d9e057;
 }
 .winter{
-    background-image: url(/winter.jpg);
+    background-image: url(/background-image-overview-feature/winter.jpg);
     background-size: cover;
     color: white;
     background-color: #b0e0e6;
 }
 .wntr {
-    background-image: url(/winter.jpg);
+    background-image: url(/background-image-overview-feature/winter.jpg);
     background-size: cover;
     background-color: #b0e0e6;
 }
 
 .autumn{
-    background-image: url(/autum.jpg);
+    background-image: url(/background-image-overview-feature/autum.jpg);
     background-size: cover;
     color: yellow;
 }
 .autm {
-    background-image: url(/autum.jpg);
+    background-image: url(/background-image-overview-feature/autum.jpg);
     background-size: cover;
     background-color: #e8b342;
 }
 .spring {
-    background-image: url(/spring.jpg);
+    background-image: url(/background-image-overview-feature/spring.jpg);
     background-size: cover;
     color: rgb(223, 247, 3);
 }
 .spng {
-    background-image: url(/spring.jpg);
+    background-image: url(/background-image-overview-feature/spring.jpg);
     background-size: cover;
     background-color: #2ff238;
 }
 .rainy {
-    background-image: url(/rainy.jpg);
+    background-image: url(/background-image-overview-feature/rainy.jpg);
     background-size: cover;
 }
 .rny {
-    background-image: url(/rainy.jpg);
+    background-image: url(/background-image-overview-feature/rainy.jpg);
     background-size: cover;
     background-color: #69787a;
 }
